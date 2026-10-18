@@ -46,7 +46,7 @@ Przy okazji newslettera powstała seria darmowych stron z danymi liczonymi od ze
 - [Ponad 2400 imion](https://witaj.org/imiona#src=github) z popularnością według danych PESEL – np. [Daniel](https://witaj.org/imie/daniel#src=github)
 - [Długie weekendy 2027](https://witaj.org/dlugie-weekendy/2027#src=github) i [planer urlopu 2027](https://witaj.org/planer-urlopu/2027#src=github) – jak z kilku dni urlopu zrobić kilkanaście dni wolnego
 - [Niedziele handlowe](https://witaj.org/niedziele-handlowe#src=github) i [dni wolne od pracy 2027](https://witaj.org/dni-wolne-od-pracy/2027#src=github)
-- [Święta nietypowe](https://witaj.org/swieta-nietypowe#src=github) – od Dnia Pizzy po Dzień Kota
+- [Święta nietypowe](https://witaj.org/swieta-nietypowe#src=github) – od Tłustego Czwartku i Dnia Kota po Dzień Programisty
 - [Kalendarz 2027 do druku](https://witaj.org/kalendarz/2027#src=github) – cały rok z imieninami, fazami Księżyca i numerami tygodni na jednej kartce A4
 
 **Czas i niebo**
